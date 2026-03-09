@@ -29,10 +29,10 @@ Freescord est une application client-serveur de messagerie instantanée dévelop
 make / make all
 
 ## Exécution
-Côté serveur: ./srv
-Côté client: ./clt 127.0.0.1
+- Côté serveur: ./srv
+- Côté client: ./clt 127.0.0.1
 
 ## Documentation
-Les supports de cours (CM, TD,TP)
-La doc de man (socket, poll, pthread...)
+- Les supports de cours (CM, TD,TP)
+- La doc de man (socket, poll, pthread...)
 
